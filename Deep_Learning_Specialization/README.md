@@ -28,8 +28,8 @@ Focused on the foundational mathematics and intuition behind neural networks.
   * Coded forward propagation, backward propagation, and parameter updates (Gradient Descent) manually to understand the underlying calculus.
 
 **Programming Assignments:**
-- [Week 2 - Python Basics with NumPy](./Course-1-Neural-Networks-and-Deep-Learning/Week%202/Python_Basics_with_Numpy.ipynb)
-- [Week 2 - Logistic Regression with a Neural Network Mindset](./Course-1-Neural-Networks-and-Deep-Learning/Week%202/Logistic_Regression_with_a_Neural_Network_Mindset.ipynb)
+- [Week 2 - Python Basics with NumPy](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week2/Programming_exercises/Python_Basics_with_Numpy/Python_Basics_with_Numpy.ipynb)
+- [Week 2 - Logistic Regression with a Neural Network Mindset](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week2/Programming_exercises/Logistic_Regression_with_a_Neural_Network_mindset/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 - [Week 3 - Planar Data Classification with One Hidden Layer](./Course-1-Neural-Networks-and-Deep-Learning/Week%203/Planar_Data_Classification_with_One_Hidden_Layer.ipynb)
 - [Week 4 - Building Your Deep Neural Network: Step by Step](./Course-1-Neural-Networks-and-Deep-Learning/Week%204/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 - [Week 4 - Deep Neural Network for Image Classification: Application](./Course-1-Neural-Networks-and-Deep-Learning/Week%204/Deep_Neural_Network_Application.ipynb)

@@ -20,7 +20,7 @@ This repository serves as a portfolio of my hands-on experience building, traini
 
 This specialization consists of 5 courses. Below is a breakdown of the core concepts I implemented in each section, along with links to the corresponding assignments and quizzes.
 
-### [Course 1: Neural Networks and Deep Learning](./Course-1-Neural-Networks-and-Deep-Learning)
+### [Course 1: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 Focused on the foundational mathematics and intuition behind neural networks.
 * **Key Implementations:**
   * Built a logistic regression model with a neural network mindset.
@@ -40,9 +40,9 @@ Focused on the foundational mathematics and intuition behind neural networks.
 - [Week 3 Quiz - Shallow Neural Networks](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week3/Quiz/Week3_Quiz_Shallow-Neural-Networks.pdf)
 - [Week 4 Quiz - Key Concepts on Deep Neural Networks](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week4/Quiz/Week4_Quiz_Deep-Neural-Networks.pdf)
 
-**Certificate:** [Course 1 Certificate](PASTE_YOUR_COURSE_1_CERTIFICATE_LINK_HERE)
+**Certificate:** [Course 1 Certificate](https://www.coursera.org/account/accomplishments/verify/YSNP8L418WNH)
 
-### [Course 2: Improving Deep Neural Networks](./Course-2-Improving-Deep-Neural-Networks)
+### [Course 2: Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network)
 Focused on hyperparameter tuning, setting up data, and advanced optimization methods.
 * **Key Implementations:**
   * Implemented initialization techniques (zero, random, and He initialization) to solve vanishing/exploding gradients.
@@ -62,9 +62,9 @@ Focused on hyperparameter tuning, setting up data, and advanced optimization met
 - [Week 2 Quiz - Optimization Algorithms](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week2/Quiz/Week2_Quiz_Optimization-Algorithms.pdf)
 - [Week 3 Quiz - Hyperparameter Tuning, Batch Normalization, Programming Frameworks](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week3/Quiz/Week3_Quiz_Hyperparameter-Tuning-Batch-Normalization-and-Programming-Frameworks.pdf)
 
-**Certificate:** [Course 2 Certificate](PASTE_YOUR_COURSE_2_CERTIFICATE_LINK_HERE)
+**Certificate:** [Course 2 Certificate](https://www.coursera.org/account/accomplishments/verify/T5HPTPMC0D18)
 
-### [Course 3: Structuring Machine Learning Projects](./Course-3-Structuring-Machine-Learning-Projects)
+### [Course 3: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 Focused on the strategic aspect of leading machine learning projects and making data-driven decisions.
 * **Key Concepts Mastered:**
   * Navigating orthogonalization, evaluating metrics (Precision, Recall, F1), and setting up Train/Dev/Test splits.
@@ -76,9 +76,9 @@ Focused on the strategic aspect of leading machine learning projects and making 
 - [Week 1 Quiz - Bird Recognition in the City of Peacetopia (Case Study)](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course3_Structuring-Machine-Learning-Projects/Week1/Week1_Quiz_ML-Strategy.pdf)
 - [Week 2 Quiz - Autonomous Driving (Case Study)](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course3_Structuring-Machine-Learning-Projects/Week2/Week2_Quiz_ML-Strategy.pdf)
 
-**Certificate:** [Course 3 Certificate](PASTE_YOUR_COURSE_3_CERTIFICATE_LINK_HERE)
+**Certificate:** [Course 3 Certificate](https://www.coursera.org/account/accomplishments/verify/3ZO4VDUN47R3)
 
-### [Course 4: Convolutional Neural Networks](./Course-4-Convolutional-Neural-Networks)
+### [Course 4: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 Focused on computer vision applications and building CNNs.
 * **Key Implementations:**
   * Built convolutional and pooling layers from scratch using NumPy.
@@ -105,9 +105,9 @@ Focused on computer vision applications and building CNNs.
 - [Week 3 Quiz - Detection Algorithms](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week3/Quiz/Week3_Quiz_Object-Detection.pdf)
 - [Week 4 Quiz - Special Applications: Face Recognition & Neural Style Transfer](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week4/Quiz/Week4_Quiz_Special-Applications-Face-recognition-and-Neural-Style-Transfer.pdf)
 
-**Certificate:** [Course 4 Certificate](PASTE_YOUR_COURSE_4_CERTIFICATE_LINK_HERE)
+**Certificate:** [Course 4 Certificate](https://www.coursera.org/account/accomplishments/verify/6O1GDY58MX3W)
 
-### [Course 5: Sequence Models](./Course-5-Sequence-Models)
+### [Course 5: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 Focused on natural language processing (NLP), audio, and processing sequential data.
 * **Key Implementations:**
   * Built **RNNs, LSTMs, and GRUs** to process temporal/sequential data.
@@ -131,7 +131,7 @@ Focused on natural language processing (NLP), audio, and processing sequential d
 - [Week 3 Quiz - Sequence Models & Attention Mechanism](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week3/Quiz/Week3_Quiz_Various-Sequence-to-Sequence-Architectures.pdf)
 - [Week 4 Quiz - Transformer Network](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week4/Quiz/Week4_Quiz_Transformer-Network.pdf)
 
-**Certificate:** [Course 5 Certificate](PASTE_YOUR_COURSE_5_CERTIFICATE_LINK_HERE)
+**Certificate:** [Course 5 Certificate](https://www.coursera.org/account/accomplishments/verify/GAR14KJK9PR0)
 
 ---
 

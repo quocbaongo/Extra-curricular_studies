@@ -35,10 +35,10 @@ Focused on the foundational mathematics and intuition behind neural networks.
 - [Week 4 - Deep Neural Network for Image Classification: Application](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week4/Programming_exercises/Deep_Neural_Network-Application/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 **Quizzes:**
-- [Week 1 Quiz - Introduction to Deep Learning](./Course-1-Neural-Networks-and-Deep-Learning/Week%201/Week%201%20Quiz.md)
-- [Week 2 Quiz - Neural Network Basics](./Course-1-Neural-Networks-and-Deep-Learning/Week%202/Week%202%20Quiz.md)
-- [Week 3 Quiz - Shallow Neural Networks](./Course-1-Neural-Networks-and-Deep-Learning/Week%203/Week%203%20Quiz.md)
-- [Week 4 Quiz - Key Concepts on Deep Neural Networks](./Course-1-Neural-Networks-and-Deep-Learning/Week%204/Week%204%20Quiz.md)
+- [Week 1 Quiz - Introduction to Deep Learning](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week1/Quiz/Week1_Quiz_Introduction-to-Deep-Learning.pdf)
+- [Week 2 Quiz - Neural Network Basics](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week2/Quiz/Week2_Quiz_Neural-Networks-Basics.pdf)
+- [Week 3 Quiz - Shallow Neural Networks](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week3/Quiz/Week3_Quiz_Shallow-Neural-Networks.pdf)
+- [Week 4 Quiz - Key Concepts on Deep Neural Networks](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week4/Quiz/Week4_Quiz_Deep-Neural-Networks.pdf)
 
 **Certificate:** [Course 1 Certificate](PASTE_YOUR_COURSE_1_CERTIFICATE_LINK_HERE)
 
@@ -51,16 +51,16 @@ Focused on hyperparameter tuning, setting up data, and advanced optimization met
   * Explored Batch Normalization and multi-class classification using Softmax through a first hands-on introduction to TensorFlow.
 
 **Programming Assignments:**
-- [Week 1 - Initialization](./Course-2-Improving-Deep-Neural-Networks/Week%201/Initialization.ipynb)
-- [Week 1 - Regularization](./Course-2-Improving-Deep-Neural-Networks/Week%201/Regularization.ipynb)
-- [Week 1 - Gradient Checking](./Course-2-Improving-Deep-Neural-Networks/Week%201/Gradient_Checking.ipynb)
-- [Week 2 - Optimization Methods](./Course-2-Improving-Deep-Neural-Networks/Week%202/Optimization_methods.ipynb)
-- [Week 3 - TensorFlow Introduction](./Course-2-Improving-Deep-Neural-Networks/Week%203/Tensorflow_introduction.ipynb)
+- [Week 1 - Initialization](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week1/Programming_exercises/Initialization/Initialization.ipynb)
+- [Week 1 - Regularization](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week1/Programming_exercises/Regularization/Regularization.ipynb)
+- [Week 1 - Gradient Checking](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week1/Programming_exercises/Gradient_Checking/Gradient_Checking.ipynb)
+- [Week 2 - Optimization Methods](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week2/Programming_exercises/Optimization_methods/Optimization_methods.ipynb)
+- [Week 3 - TensorFlow Introduction](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week3/Programming_exercises/Tensorflow_introduction/Tensorflow_introduction.ipynb)
 
 **Quizzes:**
-- [Week 1 Quiz - Practical Aspects of Deep Learning](./Course-2-Improving-Deep-Neural-Networks/Week%201/Week%201%20Quiz.md)
-- [Week 2 Quiz - Optimization Algorithms](./Course-2-Improving-Deep-Neural-Networks/Week%202/Week%202%20Quiz.md)
-- [Week 3 Quiz - Hyperparameter Tuning, Batch Normalization, Programming Frameworks](./Course-2-Improving-Deep-Neural-Networks/Week%203/Week%203%20Quiz.md)
+- [Week 1 Quiz - Practical Aspects of Deep Learning](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week1/Quiz/Week1_Quiz_Practical-Aspects-of-Deep-Learning.pdf)
+- [Week 2 Quiz - Optimization Algorithms](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week2/Quiz/Week2_Quiz_Optimization-Algorithms.pdf)
+- [Week 3 Quiz - Hyperparameter Tuning, Batch Normalization, Programming Frameworks](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course2_Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization/Week3/Quiz/Week3_Quiz_Hyperparameter-Tuning-Batch-Normalization-and-Programming-Frameworks.pdf)
 
 **Certificate:** [Course 2 Certificate](PASTE_YOUR_COURSE_2_CERTIFICATE_LINK_HERE)
 

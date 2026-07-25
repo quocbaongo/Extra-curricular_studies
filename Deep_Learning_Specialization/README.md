@@ -30,9 +30,9 @@ Focused on the foundational mathematics and intuition behind neural networks.
 **Programming Assignments:**
 - [Week 2 - Python Basics with NumPy](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week2/Programming_exercises/Python_Basics_with_Numpy/Python_Basics_with_Numpy.ipynb)
 - [Week 2 - Logistic Regression with a Neural Network Mindset](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week2/Programming_exercises/Logistic_Regression_with_a_Neural_Network_mindset/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
-- [Week 3 - Planar Data Classification with One Hidden Layer](./Course-1-Neural-Networks-and-Deep-Learning/Week%203/Planar_Data_Classification_with_One_Hidden_Layer.ipynb)
-- [Week 4 - Building Your Deep Neural Network: Step by Step](./Course-1-Neural-Networks-and-Deep-Learning/Week%204/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-- [Week 4 - Deep Neural Network for Image Classification: Application](./Course-1-Neural-Networks-and-Deep-Learning/Week%204/Deep_Neural_Network_Application.ipynb)
+- [Week 3 - Planar Data Classification with One Hidden Layer](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week3/Programming_exercises/Planar_data_classification_with_one_hidden_layer/Planar_data_classification_with_one_hidden_layer.ipynb)
+- [Week 4 - Building Your Deep Neural Network: Step by Step](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week4/Programming_exercises/Building_your_Deep_Neural_Network_Step_by_Step/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+- [Week 4 - Deep Neural Network for Image Classification: Application](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course1_Neural-Networks-and-Deep-Learning/Week4/Programming_exercises/Deep_Neural_Network-Application/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 **Quizzes:**
 - [Week 1 Quiz - Introduction to Deep Learning](./Course-1-Neural-Networks-and-Deep-Learning/Week%201/Week%201%20Quiz.md)

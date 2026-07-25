@@ -73,8 +73,8 @@ Focused on the strategic aspect of leading machine learning projects and making 
   * *Note: This course has no programming assignments. It is assessed entirely through two case-study quizzes.*
 
 **Quizzes:**
-- [Week 1 Quiz - Bird Recognition in the City of Peacetopia (Case Study)](./Course-3-Structuring-Machine-Learning-Projects/Week%201%20Quiz.md)
-- [Week 2 Quiz - Autonomous Driving (Case Study)](./Course-3-Structuring-Machine-Learning-Projects/Week%202%20Quiz.md)
+- [Week 1 Quiz - Bird Recognition in the City of Peacetopia (Case Study)](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course3_Structuring-Machine-Learning-Projects/Week1/Week1_Quiz_ML-Strategy.pdf)
+- [Week 2 Quiz - Autonomous Driving (Case Study)](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course3_Structuring-Machine-Learning-Projects/Week2/Week2_Quiz_ML-Strategy.pdf)
 
 **Certificate:** [Course 3 Certificate](PASTE_YOUR_COURSE_3_CERTIFICATE_LINK_HERE)
 
@@ -89,21 +89,21 @@ Focused on computer vision applications and building CNNs.
   * Developed a Neural Style Transfer model to generate artistic images.
 
 **Programming Assignments:**
-- [Week 1 - Convolutional Model: Step by Step](./Course-4-Convolutional-Neural-Networks/Week%201/Convolution_model_Step_by_Step.ipynb)
-- [Week 1 - Convolutional Model: Application](./Course-4-Convolutional-Neural-Networks/Week%201/Convolution_model_Application.ipynb)
+- [Week 1 - Convolutional Model: Step by Step](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week1/Programming_exercises/Convolution_model_Step_by_Step_v1/Convolution_model_Step_by_Step_v1.ipynb)
+- [Week 1 - Convolutional Model: Application](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week1/Programming_exercises/Convolution_model_Application/Convolution_model_Application.ipynb)
 - [Week 2 - Keras Tutorial: Happy House](./Course-4-Convolutional-Neural-Networks/Week%202/Keras_Tutorial_Happy_House.ipynb)
-- [Week 2 - Residual Networks](./Course-4-Convolutional-Neural-Networks/Week%202/Residual_Networks.ipynb)
-- [Week 2 - Transfer Learning with MobileNet](./Course-4-Convolutional-Neural-Networks/Week%202/Transfer_learning_with_MobileNet.ipynb)
-- [Week 3 - Car Detection with YOLO for Autonomous Driving](./Course-4-Convolutional-Neural-Networks/Week%203/Autonomous_driving_application_Car_detection.ipynb)
-- [Week 3 - Image Segmentation with U-Net](./Course-4-Convolutional-Neural-Networks/Week%203/Image_segmentation_Unet.ipynb)
-- [Week 4 - Art Generation with Neural Style Transfer](./Course-4-Convolutional-Neural-Networks/Week%204/Art_Generation_with_Neural_Style_Transfer.ipynb)
-- [Week 4 - Face Recognition](./Course-4-Convolutional-Neural-Networks/Week%204/Face_Recognition.ipynb)
+- [Week 2 - Residual Networks](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week2/Programming_exercises/Residual_Networks/Residual_Networks.ipynb)
+- [Week 2 - Transfer Learning with MobileNet](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week2/Programming_exercises/Transfer_learning_with_MobileNet_v1/Transfer_learning_with_MobileNet_v1.ipynb)
+- [Week 3 - Car Detection with YOLO for Autonomous Driving](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week3/Programming_exercises/Autonomous_driving_application_Car_detection/Autonomous_driving_application_Car_detection.ipynb)
+- [Week 3 - Image Segmentation with U-Net](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week3/Programming_exercises/Image_segmentation_Unet_v2/Image_segmentation_Unet_v2.ipynb)
+- [Week 4 - Art Generation with Neural Style Transfer](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week4/Programming_exercises/Art_Generation_with_Neural_Style_Transfer/Art_Generation_with_Neural_Style_Transfer.ipynb)
+- [Week 4 - Face Recognition](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week4/Programming_exercises/Face_Recognition/Face_Recognition.ipynb)
 
 **Quizzes:**
-- [Week 1 Quiz - The Basics of ConvNets](./Course-4-Convolutional-Neural-Networks/Week%201/Week%201%20Quiz.md)
-- [Week 2 Quiz - Deep Convolutional Models](./Course-4-Convolutional-Neural-Networks/Week%202/Week%202%20Quiz.md)
-- [Week 3 Quiz - Detection Algorithms](./Course-4-Convolutional-Neural-Networks/Week%203/Week%203%20Quiz.md)
-- [Week 4 Quiz - Special Applications: Face Recognition & Neural Style Transfer](./Course-4-Convolutional-Neural-Networks/Week%204/Week%204%20Quiz.md)
+- [Week 1 Quiz - The Basics of ConvNets](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week1/Quiz/Week1_Quiz_Foundations-of-Convolutional-Neural-Networks.pdf)
+- [Week 2 Quiz - Deep Convolutional Models](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week2/Quiz/Week2_Quiz_Deep-Convolutional-Models-Case-Studies.pdf)
+- [Week 3 Quiz - Detection Algorithms](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week3/Quiz/Week3_Quiz_Object-Detection.pdf)
+- [Week 4 Quiz - Special Applications: Face Recognition & Neural Style Transfer](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course4_Convolutional-Neural-Networks/Week4/Quiz/Week4_Quiz_Special-Applications-Face-recognition-and-Neural-Style-Transfer.pdf)
 
 **Certificate:** [Course 4 Certificate](PASTE_YOUR_COURSE_4_CERTIFICATE_LINK_HERE)
 
@@ -116,21 +116,20 @@ Focused on natural language processing (NLP), audio, and processing sequential d
   * Explored Transformer network architectures, including applications to Named-Entity Recognition and Question Answering, and studied speech recognition techniques (trigger word detection).
 
 **Programming Assignments:**
-- [Week 1 - Building a Recurrent Neural Network: Step by Step](./Course-5-Sequence-Models/Week%201/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
-- [Week 1 - Dinosaur Island: Character-Level Language Modeling](./Course-5-Sequence-Models/Week%201/Dinosaurus_Island_Character_level_language_model.ipynb)
-- [Week 1 - Jazz Improvisation with LSTM](./Course-5-Sequence-Models/Week%201/Improvise_a_Jazz_Solo_with_an_LSTM_Network.ipynb)
-- [Week 2 - Operations on Word Vectors and Debiasing](./Course-5-Sequence-Models/Week%202/Operations_on_word_vectors.ipynb)
-- [Week 2 - Emojify](./Course-5-Sequence-Models/Week%202/Emoji.ipynb)
-- [Week 3 - Neural Machine Translation with Attention](./Course-5-Sequence-Models/Week%203/Neural_machine_translation_with_attention.ipynb)
-- [Week 3 - Trigger Word Detection](./Course-5-Sequence-Models/Week%203/Trigger_word_detection.ipynb)
-- [Week 4 - Transformer Network](./Course-5-Sequence-Models/Week%204/Transformer_Subclass.ipynb)
-- [Week 4 - Transformer Network Application: Named-Entity Recognition](./Course-5-Sequence-Models/Week%204/Transformer_application_Named_Entity_Recognition.ipynb)
-- [Week 4 - Transformer Network Application: Question Answering](./Course-5-Sequence-Models/Week%204/QA_transformer.ipynb)
+- [Week 1 - Building a Recurrent Neural Network: Step by Step](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week1/Programming_exercises/Building_a_Recurrent_Neural_Network_Step_by_Step/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+- [Week 1 - Dinosaur Island: Character-Level Language Modeling](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week1/Programming_exercises/Dinosaurus_Island_Character_level_language_model/Dinosaurus_Island_Character_level_language_model.ipynb)
+- [Week 1 - Jazz Improvisation with LSTM](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week1/Programming_exercises/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+- [Week 2 - Operations on Word Vectors and Debiasing](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week2/Programming_exercises/Operations_on_word_vectors_v2a/Operations_on_word_vectors_v2a.ipynb)
+- [Week 2 - Emojify](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week2/Programming_exercises/Emoji_v3a/Emoji_v3a.ipynb)
+- [Week 3 - Neural Machine Translation with Attention](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week3/Programming_exercises/Neural_machine_translation_with_attention_v4a/Neural_machine_translation_with_attention_v4a.ipynb)
+- [Week 3 - Trigger Word Detection](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week3/Programming_exercises/Trigger_word_detection_v2a/Trigger_word_detection_v2a.ipynb)
+- [Week 4 - Transformer Network](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week4/Programming_exercises/C5_W4_A1_Transformer_Subclass_v1/C5_W4_A1_Transformer_Subclass_v1.ipynb)
 
 **Quizzes:**
-- [Week 1 Quiz - Recurrent Neural Networks](./Course-5-Sequence-Models/Week%201/Week%201%20Quiz.md)
-- [Week 2 Quiz - Natural Language Processing & Word Embeddings](./Course-5-Sequence-Models/Week%202/Week%202%20Quiz.md)
-- [Week 3 Quiz - Sequence Models & Attention Mechanism](./Course-5-Sequence-Models/Week%203/Week%203%20Quiz.md)
+- [Week 1 Quiz - Recurrent Neural Networks](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week1/Quiz/Week1_Quiz_Recurrent-Neural-Networks.pdf)
+- [Week 2 Quiz - Natural Language Processing & Word Embeddings](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week2/Quiz/Week2_Quiz_NLP-and-Word-Embeddings.pdf)
+- [Week 3 Quiz - Sequence Models & Attention Mechanism](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week3/Quiz/Week3_Quiz_Various-Sequence-to-Sequence-Architectures.pdf)
+- [Week 4 Quiz - Transformer Network](https://github.com/quocbaongo/Extra-curricular_studies/blob/main/Deep_Learning_Specialization/Course5_Sequence-Models/Week4/Quiz/Week4_Quiz_Transformer-Network.pdf)
 
 **Certificate:** [Course 5 Certificate](PASTE_YOUR_COURSE_5_CERTIFICATE_LINK_HERE)
 
